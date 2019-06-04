@@ -22,4 +22,4 @@ Edit `~/.config/fish/config.fish`
 Add the following to you `fish_prompt` function:
 ```
 echo -n ' '(print_working_svn_branch.sh)
-``
+```
